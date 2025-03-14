@@ -8,11 +8,11 @@
     "start": "node src/index.js"
   },
   "dependencies": {
-    "puppeteer": "latest",
-    "fs-extra": "latest",
-    "path": "latest",
-    "yargs": "latest",
-    "chalk": "latest"
+    "chalk": "^5.4.1",
+    "fs-extra": "^11.3.0",
+    "path": "^0.12.7",
+    "puppeteer": "^24.4.0",
+    "yargs": "^17.7.2"
   },
   "keywords": [
     "cursor",
